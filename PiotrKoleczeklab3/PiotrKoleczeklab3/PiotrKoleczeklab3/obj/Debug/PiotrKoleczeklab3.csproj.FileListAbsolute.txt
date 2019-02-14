@@ -1,0 +1,14 @@
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\bin\Debug\PiotrKoleczeklab3.exe.config
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\bin\Debug\PiotrKoleczeklab3.exe
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\bin\Debug\PiotrKoleczeklab3.pdb
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.FormAddKeeper.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.FormMain.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.FormShowView.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.exe
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.pdb
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.FormChooseTable.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab3\zadanie domowe\PiotrKoleczeklab3\PiotrKoleczeklab3\PiotrKoleczeklab3\obj\Debug\PiotrKoleczeklab3.FormAddSchedule.resources
